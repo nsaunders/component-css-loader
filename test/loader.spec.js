@@ -19,7 +19,7 @@ test("under defaults, throws when input is not valid JSON", async () => {
     await compiler("invalid.json");
   } catch (errors) {
     return expect(
-      findError("Component CSS Loader requires valid JSON input.", errors),
+      findError("Prefix Loader requires valid JSON input.", errors),
     ).toBeTruthy();
   }
   throw new Error("No error thrown");
