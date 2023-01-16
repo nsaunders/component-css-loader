@@ -1,0 +1,1 @@
+{"ctx":"component","css":"@keyframes fooa{from{opacity:0}to{opacity:1}}.fooc,#fooi{animation-name:fooa;}"}
