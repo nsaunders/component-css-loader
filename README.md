@@ -8,8 +8,7 @@ achieved using e.g.
 [postcss-loader](http://github.com/webpack-contrib/postcss-loader), the unique
 feature of this loader is that the prefix is configured in the source content
 rather than within the Webpack configuration. Thus, a unique prefix can be
-applied to each style sheet module, allowing component style sheets to be scoped
-independently.
+applied to each style sheet module, allowing independent scoping.
 
 ### Example
 
