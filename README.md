@@ -6,7 +6,7 @@ This Webpack loader applies a prefix to each class name, ID, and animation name
 that appears within a given style sheet. While similar functionality could be
 achieved using e.g.
 [postcss-loader](http://github.com/webpack-contrib/postcss-loader), the unique
-feature of this loader is that the prefix is configured in the source content
+feature of this loader is that the prefix is supplied in the source content
 rather than within the Webpack configuration. Thus, a unique prefix can be
 applied to each style sheet module, allowing independent scoping.
 
