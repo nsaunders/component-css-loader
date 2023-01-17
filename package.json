@@ -3,6 +3,7 @@
   "version": "1.0.0-alpha.1",
   "description": "A Webpack loader that applies a prefix to CSS class names, IDs, and animation names",
   "scripts": {
+    "lint": "eslint *.js src test --no-ignore .eslintrc.js",
     "precommit": "lint-staged && jest",
     "prepare": "husky install",
     "prepublishOnly": "babel src -d dist",
