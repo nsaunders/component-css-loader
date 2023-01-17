@@ -25,9 +25,7 @@ export default function (content, ...args) {
   try {
     json = JSON.parse(content);
   } catch ({ message }) {
-    throw new Error(
-      `Prefix Loader requires valid JSON input. ${message}`,
-    );
+    throw new Error(`Prefix Loader requires valid JSON input. ${message}`);
   }
 
   const prefixFieldsPattern = /\[([^[]+)\]/g;
