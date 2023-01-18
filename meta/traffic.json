@@ -1,0 +1,35 @@
+[
+  {
+    "views": {
+      "uniques": 1,
+      "count": 63
+    },
+    "timestamp": "2023-01-16T00:00:00Z",
+    "clones": {
+      "uniques": 11,
+      "count": 22
+    }
+  },
+  {
+    "views": {
+      "uniques": 2,
+      "count": 21
+    },
+    "timestamp": "2023-01-17T00:00:00Z",
+    "clones": {
+      "uniques": 6,
+      "count": 11
+    }
+  },
+  {
+    "views": {
+      "uniques": 1,
+      "count": 7
+    },
+    "timestamp": "2023-01-18T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
+  }
+]
