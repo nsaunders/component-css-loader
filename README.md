@@ -1,4 +1,4 @@
-# prefix-loader <a href="https://github.com/nsaunders/prefix-loader/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/nsaunders/prefix-loader/ci.yml?branch=master" alt="Build status"></a> <a href="https://www.npmjs.com/package/prefix-loader"><img src="https://img.shields.io/npm/v/prefix-loader.svg" alt="Latest Release"></a> <a href="https://github.com/nsaunders/prefix-loader/blob/master/LICENSE"><img src="https://img.shields.io/github/license/nsaunders/prefix-loader.svg" alt="License"></a>
+# component-css-loader <a href="https://github.com/nsaunders/component-css-loader/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/nsaunders/component-css-loader/ci.yml?branch=master" alt="Build status"></a> <a href="https://www.npmjs.com/package/component-css-loader"><img src="https://img.shields.io/npm/v/component-css-loader.svg" alt="Latest Release"></a> <a href="https://github.com/nsaunders/component-css-loader/blob/master/LICENSE"><img src="https://img.shields.io/github/license/nsaunders/component-css-loader.svg" alt="License"></a>
 
 ## Overview
 

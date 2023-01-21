@@ -1,6 +1,6 @@
 {
-  "name": "prefix-loader",
-  "version": "1.0.0",
+  "name": "component-css-loader",
+  "version": "0.0.0",
   "description": "A Webpack loader that applies a prefix to CSS class names, IDs, and animation names",
   "scripts": {
     "lint": "eslint *.js src test --no-ignore .eslintrc.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nsaunders/prefix-loader.git"
+    "url": "git+https://github.com/nsaunders/component-css-loader.git"
   },
   "files": [
     "dist"
@@ -35,9 +35,9 @@
   "author": "Nick Saunders <nick@saunde.rs>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nsaunders/prefix-loader/issues"
+    "url": "https://github.com/nsaunders/component-css-loader/issues"
   },
-  "homepage": "https://github.com/nsaunders/prefix-loader#readme",
+  "homepage": "https://github.com/nsaunders/component-css-loader#readme",
   "devDependencies": {
     "@babel/cli": "^7.20.7",
     "@babel/core": "^7.20.12",

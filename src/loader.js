@@ -8,7 +8,7 @@ export default function (content, ...args) {
     prefix: "[moduleId]___",
     css: "css",
     ...this.getOptions({
-      title: "Prefix Loader",
+      title: "Component CSS Loader",
       type: "object",
       properties: {
         prefix: {
@@ -25,7 +25,9 @@ export default function (content, ...args) {
   try {
     json = JSON.parse(content);
   } catch ({ message }) {
-    throw new Error(`Prefix Loader requires valid JSON input. ${message}`);
+    throw new Error(
+      `Component CSS Loader requires valid JSON input. ${message}`,
+    );
   }
 
   const prefixFieldsPattern = /\[([^[]+)\]/g;
@@ -35,7 +37,7 @@ export default function (content, ...args) {
 
   validate(
     {
-      title: "Prefix Loader content",
+      title: "Component CSS Loader content",
       type: "object",
       required: [...prefixFields, options.css],
       properties: {
