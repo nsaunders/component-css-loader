@@ -1,6 +1,6 @@
 {
   "name": "component-css-loader",
-  "version": "1.0.0-alpha.0",
+  "version": "1.0.0",
   "description": "A Webpack loader that applies a prefix to CSS class names, IDs, and animation names",
   "scripts": {
     "lint": "eslint *.js src test --no-ignore .eslintrc.js",
