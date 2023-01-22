@@ -24,12 +24,31 @@
   {
     "views": {
       "uniques": 1,
-      "count": 7
+      "count": 20
     },
     "timestamp": "2023-01-18T00:00:00Z",
     "clones": {
+      "uniques": 5,
+      "count": 7
+    }
+  },
+  {
+    "views": {
       "uniques": 1,
       "count": 1
+    },
+    "timestamp": "2023-01-19T00:00:00Z",
+    "clones": null
+  },
+  {
+    "views": {
+      "uniques": 1,
+      "count": 35
+    },
+    "timestamp": "2023-01-21T00:00:00Z",
+    "clones": {
+      "uniques": 8,
+      "count": 15
     }
   }
 ]
