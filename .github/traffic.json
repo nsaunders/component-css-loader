@@ -81,6 +81,17 @@
       "count": 4
     },
     "timestamp": "2023-01-27T00:00:00Z",
-    "clones": null
+    "clones": {
+      "uniques": 4,
+      "count": 16
+    }
+  },
+  {
+    "views": null,
+    "timestamp": "2023-01-28T00:00:00Z",
+    "clones": {
+      "uniques": 1,
+      "count": 1
+    }
   }
 ]
