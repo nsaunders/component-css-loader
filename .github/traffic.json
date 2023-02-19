@@ -130,8 +130,16 @@
     "views": null,
     "timestamp": "2023-02-12T00:00:00Z",
     "clones": {
+      "uniques": 4,
+      "count": 6
+    }
+  },
+  {
+    "views": null,
+    "timestamp": "2023-02-13T00:00:00Z",
+    "clones": {
       "uniques": 1,
-      "count": 2
+      "count": 1
     }
   }
 ]
