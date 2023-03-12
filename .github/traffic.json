@@ -189,5 +189,21 @@
       "uniques": 3,
       "count": 5
     }
+  },
+  {
+    "views": null,
+    "timestamp": "2023-03-05T00:00:00Z",
+    "clones": {
+      "uniques": 3,
+      "count": 4
+    }
+  },
+  {
+    "views": null,
+    "timestamp": "2023-03-06T00:00:00Z",
+    "clones": {
+      "uniques": 3,
+      "count": 3
+    }
   }
 ]
