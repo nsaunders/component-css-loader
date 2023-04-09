@@ -264,5 +264,13 @@
       "uniques": 2,
       "count": 2
     }
+  },
+  {
+    "views": null,
+    "timestamp": "2023-04-02T00:00:00Z",
+    "clones": {
+      "uniques": 3,
+      "count": 4
+    }
   }
 ]
