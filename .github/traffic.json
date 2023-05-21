@@ -381,6 +381,14 @@
     "views": null,
     "timestamp": "2023-05-14T00:00:00Z",
     "clones": {
+      "uniques": 4,
+      "count": 6
+    }
+  },
+  {
+    "views": null,
+    "timestamp": "2023-05-15T00:00:00Z",
+    "clones": {
       "uniques": 1,
       "count": 1
     }
